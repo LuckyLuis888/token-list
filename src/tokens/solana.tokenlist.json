@@ -115470,6 +115470,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "4JUfpTB8Fv2pmSrNAH4UqgMzifLvgABJ6ei6eJqVoJX1",
+      "symbol": "QNALA",
+      "name": "QUEEN NALA",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/LuckyLuis888/crypto2/main/logo2.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
